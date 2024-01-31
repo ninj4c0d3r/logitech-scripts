@@ -1,3 +1,1 @@
 # logitech-scripts
-
-s
